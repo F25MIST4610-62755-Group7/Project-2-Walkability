@@ -31,6 +31,7 @@ Block Group Flaw
 When using this data set, we found an issue that may affect the interpretation of our results
 Some block groups used to separate U.S. cities seem to be much larger than they should be
 For example, the block group for Atlanta spans an unusually large portion of the state
+
 <img width="274" height="308" alt="Screenshot 2025-11-21 at 6 31 02 PM" src="https://github.com/user-attachments/assets/f7ad6fe7-92f5-432c-be00-3e291a8884af" />
 
 Analysis and Results:
